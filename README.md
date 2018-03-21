@@ -20,3 +20,10 @@ Web Development (290)
 --Summer 2018--
 
 Algorithms (325)
+
+
+
+---Supplemental Reading---
+Starting Out With C++ 9th Ed. (Completed)
+Discrete Mathematics with Applications 4th Ed. (Completed)
+Web Development with Node & Express (In-Progress)
