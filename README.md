@@ -9,7 +9,7 @@ Discrete Mathematics in Computer Science (225)   A
 
 --Winter 2018--
 
-Intro to Computer Science II (162)   A (Current)
+Intro to Computer Science II (162)   A
   
 --Spring 2018--
 
