@@ -22,7 +22,9 @@ Web Development (290)   A
 Algorithms (325)
 
 --Fall 2018--
+
 Computer Architecture and Assembly Language (271)
+
 Introduction to Databases (340)
 
 
